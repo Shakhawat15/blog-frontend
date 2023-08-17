@@ -1,0 +1,2 @@
+Netlify Deploy Link: https://stirring-otter-a8c32b.netlify.app/
+Github Repository Link: https://github.com/Shakhawat15/blog-frontend
